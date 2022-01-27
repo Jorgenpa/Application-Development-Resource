@@ -99,7 +99,7 @@ Fork this repository:
 
 ##### HTML-CSS-JS
 
-level-1: ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/your-username/pastecopiedidof-html-level-1/raw/html_level1.json)
+level-1: ![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/jorgenpa/cd29e1f5d1a69b59117b5b8f64e3a285/raw/html_level1.json)
 
 ##### React:
 
